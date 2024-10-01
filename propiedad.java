@@ -21,5 +21,8 @@ public class propiedad {
 		this.alquiler = alquiler;
 	}
 	
-	
+	public int alquiler() {
+		int alquiler = 0;
+		return alquiler;
+	}
 }
